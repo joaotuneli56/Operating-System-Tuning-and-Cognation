@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1553947868 source:d:\fiap\algap\codeblocks\appmultithread\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<time.h>
+	<pthread.h>
+

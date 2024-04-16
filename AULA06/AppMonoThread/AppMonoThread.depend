@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1553951636 source:d:\fiap\algap\codeblocks\appmonothread\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<time.h>
+
+1585662320 source:c:\temp\sergio\fiap\so\lab\appmonothread\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<time.h>
+	<unistd.h>
+
